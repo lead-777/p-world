@@ -1,11 +1,11 @@
-const css = `
+const background = `
   <style>
     body {
       background-attachment: fixed;
       background-repeat: no-repeat;
       background-position: top center;
-      background-size: cover;
+      background-size: contain;
     }
   </style>
 `;
-document.write(css);
+document.write(background);
