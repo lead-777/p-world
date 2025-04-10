@@ -20,7 +20,7 @@ osaka_s-cosmo-city-acty.gif
 https://github.com/lead-777/p-world/tree/main/img
 
 
-## 1-2. メンテナンスページ下段にコードを追加する
+## 1-2. P-WORLDのメンテナンスページ下段にコードを追加する
 ```
 <script src="https://lead-777.github.io/p-world/js/background.js"></script>
 <div class="background" style="background-image: url('https://lead-777.github.io/p-world/img/osaka_s-cosmo-city-acty.gif');"></div>
