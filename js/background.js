@@ -9,7 +9,6 @@ const background = `
       left: 0;
       width: 100%;
       height: 100%;
-      background-attachment: fixed;
       background-repeat: no-repeat;
       background-position: top center;
       background-size: contain;
