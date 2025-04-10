@@ -1,5 +1,8 @@
 const background = `
   <style>
+    body {
+      background: none;
+    }
     .background {
       position: fixed;
       top: 0;
