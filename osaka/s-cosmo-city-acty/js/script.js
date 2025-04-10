@@ -3,9 +3,9 @@ const css = `
     body {
       background-attachment: fixed;
       background-repeat: no-repeat;
-      background-position: center top;
-      background-image: url("hoge");
-      background-size: 1920px 1080px;
+      background-position: top center;
+      background-image: url('https://miasriko.github.io/p-world/osaka/s-cosmo-city-acty/img/bg.gif');
+      background-size: cover;
     }
   </style>
 `;
