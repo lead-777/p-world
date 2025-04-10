@@ -11,7 +11,7 @@ const background = `
       height: 100%;
       background-repeat: no-repeat;
       background-position: top center;
-      background-size: contain;
+      background-size: 1920px 1080px;
       z-index: -1;
     }
   </style>
